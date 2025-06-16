@@ -1,12 +1,31 @@
-# My Awesome Project
+# CRUD app using Rap-names-API
 
-RapNamesAPI containing rapper data easily accessible using Rest API.
+RapNamesAPI is containing rapper data easily accessible using Rest API.
 
 **Link to project:** https://rap-names-api-y9gc.onrender.com/
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Node, Express
+**Tech used:** HTML, CSS, JavaScript, Node, Express, MongoDB
+
+## How to Use:
+
+### Set up & Requirements
+
+🔑 Clone this repo:
+
+```clone git
+git clone
+```
+
+🔑 To install requirements:
+
+```
+mkdir api-project
+cd api-project
+npm init
+npm install express mongodb ejs dotenv --save
+```
 
 ## Lessons Learned:
 
