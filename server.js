@@ -28,7 +28,7 @@ app.use(express.json());
 
 
 app.get('/', (req, res) => {
-    db.collection('rappers').find().toArray()
+    db.collection('rappers').find().sort({likes:-1}).toArray()
     .then(data => {
         res.render('index.ejs', { info: data });
     })
