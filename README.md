@@ -5,7 +5,7 @@ It provides basic functionalities to add, delete, and update rapper entries to a
 
 **Link to project:** https://rap-names-api-y9gc.onrender.com/
 
-![Demo image](https://github.com/slyncrafty/slyncrafty.github.io/blob/main/images/rap-names-api.gif)
+![Demo image](https://github.com/slyncrafty/slyncrafty.github.io/blob/main/images/demo1.gif?raw=true)
 
 ## How It's Made:
 
